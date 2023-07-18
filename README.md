@@ -1,7 +1,7 @@
 <p align="center">
-    <img src="./src/thumbnail.png" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://telegra.ph/file/8eebcfc487da91fb4db36.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">KING RAVANA MDD</h1>
+<h1 align="center">KING RAVANA MD</h1>
 
 
 ## Baca Sebelum Pakai!!
