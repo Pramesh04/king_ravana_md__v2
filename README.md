@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://telegra.ph/file/8eebcfc487da91fb4db36.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://github.com/Pramesh04/sup_to_ravana/blob/main/king_RAVANA_MD.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">KING RAVANA MD</h1>
 
